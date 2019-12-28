@@ -1,0 +1,4 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0.0307811579396791;Persona.190;Model;0.CaminarMesas;[Transfer] Transfer1;Error initiating transfer of entity 'Persona.190'. The entity's current location '[Link] Path7' is invalid for attempting the specified transfer request.
+0.0307811579396791;Persona.190;Model;0.CaminarMesas;[Transfer] Transfer1;For possible causes, check whether the 'FromType' property of the Transfer step is misspecified.
+
