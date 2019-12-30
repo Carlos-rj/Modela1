@@ -1,0 +1,4 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0.110913386163744;Persona.193;CorporacionMunicipal;5.PorcentajeJRV2;[Assign] Assign3;Unable to get value of property 'Assign.NewValue'.
+0.110913386163744;Persona.193;CorporacionMunicipal;5.PorcentajeJRV2;[Assign] Assign3;Division by zero error occurred while evaluating expression.
+
